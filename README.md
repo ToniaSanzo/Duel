@@ -35,6 +35,8 @@ Team up with friends!
 ![Team_Up](Pics/Team_Up_Duel.png)
 
 
+Check the Devpost Link for more information.
+https://devpost.com/software/duel-gjwqi5
 
 >[To play the game extract the Duel.zip file, then go inside the directories, and run DUEL.exe
 The game needs to run inside this file structure to have access to its Assets, and dependencies.]
