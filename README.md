@@ -10,16 +10,28 @@ PvP arena made for Hack Upstate XV
 ![Duel](Pics/Duel_Thumbnail.png)
 
 
+
+
 Playable Character - Warrior
+
 ![Warrior](Pics/Warrior_Duel.png)
 
+
+
 Playable Character - Mage
+
 ![Mage](Pics/Mage_Duel.png)
 
+
+
 Playable Character - Ranger
+
 ![Warrior](Pics/Ranger_Duel.png)
 
+
+
 Team up with friends!
+
 ![Team_Up](Pics/Team_Up_Duel.png)
 
 
